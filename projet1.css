@@ -1,0 +1,168 @@
+hr {
+    margin-top: 90px;
+    margin-bottom: 90px;
+}
+
+.photo1 {
+    display: flex;
+    justify-content: center;
+}
+
+.photo-1 {
+    opacity: 90%;
+    margin-top: 250px;
+    margin-bottom: 30px;
+    height: 250px;
+    width: 250px;
+    display: flex;
+    justify-content: center;
+    border: 3px solid white;
+    border-radius: 400px;
+}
+
+.titre1 {
+    display: flex;
+    justify-content: center;
+}
+
+.titre {
+    font-family: 'Press Start 2P', cursive;
+    font-weight: bold;
+    font-size: 40px;
+    color: white;
+    border-radius: 20px;
+    border: 3px solid white;
+    height: 100px;
+    width: 680px;
+    background-color: rgb(211, 36, 36);
+    text-align: center;
+}
+
+body {
+    background-image: url(https://cdn.wallpapersafari.com/34/82/YRzXPk.jpeg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.partie1 {
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.main1 {
+    display: flex;
+    justify-content: center;
+}
+
+.main {
+    font-family: 'Secular One', sans-serif;
+    font-size: 30px;
+    color: white;
+    border-radius: 20px;
+    border: 3px solid white;
+    height: 550px;
+    width: 700px;
+    background-color: rgb(211, 36, 36);
+    text-align: center;
+}
+
+.screen1 {
+    height: 550px;
+    width: 800px;
+    border: 3px solid white;
+    border-radius: 30px;
+}
+
+.main2 {
+    margin-top: 50px;
+    margin-right: 100px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.screen4 {
+    height: 550px;
+    width: 700px;
+    border: 3px solid white;
+    border-radius: 30px;
+}
+
+.screen5 {
+    height: 550px;
+    width: 800px;
+    border: 3px solid white;
+    border-radius: 30px;
+}
+
+.main-3 {
+    display: flex;
+    justify-content: center;
+}
+
+.main3 {
+    font-family: 'Secular One', sans-serif;
+    font-size: 20px;
+    color: white;
+    border-radius: 20px;
+    border: 3px solid white;
+    height: 80px;
+    width: 180px;
+    background-color: rgb(211, 36, 36);
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.main-4 {
+    display: flex;
+    justify-content: center;
+}
+
+.main4 {
+    font-family: 'Secular One', sans-serif;
+    font-size: 20px;
+    color: white;
+    border-radius: 20px;
+    border: 3px solid white;
+    height: 120px;
+    width: 300px;
+    background-color: rgb(211, 36, 36);
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+.acceuil {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 150px;
+}
+
+.acceuil1 {
+    display: flex;
+    justify-content: center;
+    border: 3px solid white;
+    height: 80px;
+    width: 100px;
+    border-radius: 30px;
+    background-color: rgb(211, 36, 36);
+    font-family: 'Secular One', sans-serif;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+}
+
+.bas-page {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+    font-family: 'Libre Barcode 128 Text', cursive;
+    font-size: 50px;
+    color: white;
+}
